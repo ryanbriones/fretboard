@@ -4,6 +4,10 @@ http://ryanbriones.com/fretproto
 
 Placeholder public repository for Fretboard app.
 
+<img src="https://raw.githubusercontent.com/ryanbriones/fretboard/refs/heads/main/fretproto-desktop.png" width="250" alt="Fretboard App Desktop" />
+
+<img src="https://raw.githubusercontent.com/ryanbriones/fretboard/refs/heads/main/fretproto-mobile.png" width="250" alt="Fretboard App Responsive Mobile" />
+
 ## Secret Sauce
 
 This is the core of how the application calculates chords from scales. The rest of the code is glue for UI.
